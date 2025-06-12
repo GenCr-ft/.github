@@ -1,0 +1,33 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Studio Handbook
+    url: https://github.com/GenCr-ft/gcs-studio-handbook
+    about: Please consult our process and governance documents first.
+  - name: Ask a question in #devops-support (Slack)
+    url: https://[your_slack_workspace].slack.com/
+    about: For general questions.
+categories:
+  - name: Planning and Tracking
+    description: 'Issues for planning and tracking work.'
+    templates:
+      - name: 'New Epic'
+        description: 'Define a large body of work or a theme.'
+        template: 'epic.md'
+      - name: 'New Feature Request'
+        description: 'Propose a new feature within an Epic.'
+        template: 'feature.md'
+      - name: 'New User Story'
+        description: 'Describe a specific user need.'
+        template: 'user_story.md'
+      - name: 'New Action Item / Task'
+        description: 'Define a specific, standalone task.'
+        template: 'action_item.md'
+  - name: Technical Issues
+    description: 'Issues for technical work.'
+    templates:
+      - name: 'Bug Report'
+        description: 'Report a bug or a technical issue.'
+        template: 'bug_report.md'
+      - name: 'Propose an Architecture Decision (ADR)'
+        description: 'Document a significant architectural decision.'
+        template: 'adr.md'
