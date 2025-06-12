@@ -62,7 +62,7 @@ This meta-repository (`GenCr-ft`) centralizes all sub-projects related to GenCra
     * **Content:** Infrastructure as Code (Terraform), modules, environment configurations, initialization scripts.
     * **Opportunity (Development/DevOps):** Contribute to the game's cloud infrastructure.
 
-* **`gencraft-gem/`** (and `gencraft-gem-blueprints/`)
+* **`gencraft-gem/`** (and `gcs-plt-gembp/`)
     * **Content:** "AI Gems" (G-FT.ai) to assist in development.
     * **Opportunity (Development/AI):** Develop innovative AI tools for the game and studio.
 
@@ -79,7 +79,7 @@ This meta-repository (`GenCr-ft`) centralizes all sub-projects related to GenCra
     * **Opportunity (DevOps):** Improve efficiency through automation.
 
 * **Application Code Repositories (Current Placeholders):**
-    * `gencraft-client/`, `gencraft-server/`, `gencraft-pcg/`, `gencraft-service-auth/`, `gencraft-service-persistence/`.
+    * `gencraft-client/`, `gcp-aethel-server/`, `gencraft-pcg/`, `gencraft-service-auth/`, `gencraft-service-persistence/`.
     * **Opportunity (Development):** Work on cutting-edge technologies (procedural generation, AI, complex multiplayer systems).
 
 * **Marketing and Sales (implied in the structure, supported by `gencraft-requirements/` and AI Gems):**
