@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/GenCr-ft/gcs-studio-handbook
     about: Please consult our process and governance documents first.
   - name: Ask a question in #devops-support (Slack)
-    url: https://[your_slack_workspace].slack.com/
+    url: https://placeholder.invalid # TODO: replace with actual community URL
     about: For general questions.
 categories:
   - name: Planning and Tracking
