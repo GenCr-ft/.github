@@ -13,6 +13,7 @@ This repository stores the default files that GitHub applies to all public repos
 - **`SECURITY.md`**: Instructions for reporting security vulnerabilities.
 - **`LICENSE`**: The default open-source license for our projects.
 - **`ISSUE_TEMPLATE/`**: Standard templates for bug reports and feature requests.
+- **`issue_template_config.yml`**: Configuration for the issue template chooser.
 - **`.pre-commit-config.yaml`**: Default pre-commit hook configurations.
 
 ## Usage

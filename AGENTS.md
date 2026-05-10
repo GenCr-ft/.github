@@ -1,4 +1,4 @@
-# AGENTS.md — .github
+# AI Agent Instructions & Technical Workflows
 
 ## Project Overview
 
@@ -22,4 +22,4 @@ This repository centralizes default community health files (e.g., `LICENSE`, `CO
 ## Commit & PR Conventions
 
 - Conventional Commits v1.0.0.
-- AI-generated commits must include trailer: `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>`
+- AI-generated commits must include a Co-authored-by trailer identifying the model used (e.g., Co-authored-by: Model Name <noreply@example.com>).
