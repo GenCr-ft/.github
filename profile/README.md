@@ -19,9 +19,9 @@ If you already know your workspace, use the onboarding scripts directly:
 
 ```bash
 mkdir -p ~/gft && cd ~/gft
-curl -L https://raw.githubusercontent.com/GenCr-ft/gcd-onboarding-scripts/main/gft-onboarding.sh -o gft-onboarding.sh
-curl -L https://raw.githubusercontent.com/GenCr-ft/gcd-onboarding-scripts/main/gft-onboarding.sh.sha256 -o gft-onboarding.sh.sha256
-sha256sum --check gft-onboarding.sh.sha256 && bash gft-onboarding.sh --quickstart --workspace aethel
+curl -L https://github.com/GenCr-ft/gcd-onboarding-scripts/archive/refs/heads/main.tar.gz | tar -xz
+cd gcd-onboarding-scripts-main
+bash gft-onboarding.sh --quickstart --workspace aethel
 ```
 
 Replace `aethel` with `evai-platform`, `agent-factory`, `workspace-ops`, or
