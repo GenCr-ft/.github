@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img"
+     aria-label="GenCr@ft Studio — building Aethel, a multiplayer voxel RPG. Start here: gencr-ft.github.io">
+  <title>GenCr@ft Studio — building Aethel, a multiplayer voxel RPG</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16202a"/>
+      <stop offset="55%" stop-color="#1b3550"/>
+      <stop offset="100%" stop-color="#1b5f95"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#946b18"/>
+      <stop offset="60%" stop-color="#267052"/>
+      <stop offset="100%" stop-color="#1b5f95"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="280" fill="url(#bg)"/>
+
+  <!-- Decorative isometric voxel cluster, echoing the game's subject matter. -->
+  <g opacity="0.5">
+    <g transform="translate(1052 96)">
+      <path d="M0 26 L45 0 L90 26 L45 52 Z" fill="#3d7fb8"/>
+      <path d="M0 26 L45 52 L45 104 L0 78 Z" fill="#1b5f95"/>
+      <path d="M90 26 L45 52 L45 104 L90 78 Z" fill="#14486f"/>
+    </g>
+    <g transform="translate(962 148)">
+      <path d="M0 26 L45 0 L90 26 L45 52 Z" fill="#2f8f66"/>
+      <path d="M0 26 L45 52 L45 104 L0 78 Z" fill="#267052"/>
+      <path d="M90 26 L45 52 L45 104 L90 78 Z" fill="#1c5a40"/>
+    </g>
+    <g transform="translate(1052 200)">
+      <path d="M0 26 L45 0 L90 26 L45 52 Z" fill="#c08f2a"/>
+      <path d="M0 26 L45 52 L45 104 L0 78 Z" fill="#946b18"/>
+      <path d="M90 26 L45 52 L45 104 L90 78 Z" fill="#725013"/>
+    </g>
+  </g>
+
+  <text x="80" y="104" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="bold"
+        fill="#ffffff" letter-spacing="-0.5">GenCr@ft Studio</text>
+
+  <rect x="82" y="126" width="196" height="4" rx="2" fill="url(#rule)"/>
+
+  <text x="80" y="172" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c9d6e4">
+    Building <tspan font-weight="bold" fill="#ffffff">Aethel</tspan> — a multiplayer voxel RPG.
+  </text>
+
+  <g transform="translate(80 202)">
+    <rect x="0" y="0" width="330" height="46" rx="23" fill="#ffffff" opacity="0.1"/>
+    <rect x="0" y="0" width="330" height="46" rx="23" fill="none" stroke="#8fb8dc" stroke-width="1.5"/>
+    <text x="24" y="30" font-family="SFMono-Regular, Consolas, monospace" font-size="17" fill="#ffffff">
+      Start here → gencr-ft.github.io
+    </text>
+  </g>
+</svg>
