@@ -23,7 +23,7 @@ This repository centralizes default community health files (e.g., `LICENSE`, `CO
 
 This repository has **no SSoT compliance callsite**, on purpose. It is the only studio repository
 exempt from the "every repo calls `reusable-ssot-linter.yml`" rule. Studio Lead decision
-2026-10-23, recorded on GenCr-ft/gcd-shared-actions#241; removal tracked in #25.
+2026-10-23, recorded on GenCr-ft/gcd-shared-actions#241; removal tracked in GenCr-ft/.github#25.
 
 Two measured reasons, either of which is sufficient:
 
