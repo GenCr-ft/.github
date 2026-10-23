@@ -2,7 +2,7 @@
 docId: GOV-PLAN-022
 title: '[CODE] WI-22.1 — move the SSoT linter caller to @v1 and drop the explicit version pins'
 issue-id: GenCr-ft/.github#22
-status: in_progress
+status: complete
 version: 1.0.0
 authors: [loigallain]
 creation_date: '2026-10-23'
