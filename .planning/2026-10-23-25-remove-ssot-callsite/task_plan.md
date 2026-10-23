@@ -2,7 +2,7 @@
 docId: GOV-PLAN-025
 title: '[CODE] WI-25.1 — remove the SSoT linter callsite and record the exemption'
 issue-id: GenCr-ft/.github#25
-status: in_progress
+status: complete
 version: 1.0.0
 authors: [loigallain]
 creation_date: '2026-10-23'
@@ -29,4 +29,4 @@ Tier: `wi:lightweight`, set by loigallain. The REFINE-LIGHTWEIGHT:PASS on #25 is
 |---|---|---|
 | Delete `.github/workflows/ssot-compliance.yml`; confirm no other `reusable-ssot-linter` reference | AC-1 | done |
 | Add the `## SSoT Gate Exemption` section to `AGENTS.md`: two reasons, link #241, revisit trigger | AC-2 | done |
-| A PR opened after merge shows no `SSoT Compliance Check` run | AC-3 | pending |
+| A PR opened after merge shows no `SSoT Compliance Check` run | AC-3 | done: PR #27 merged as `e0d2b08`; this plan-close PR is the post-merge observation |
